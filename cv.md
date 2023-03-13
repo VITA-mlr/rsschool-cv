@@ -51,7 +51,7 @@ I am persistent, responsible, friendly, calm
 ### Experience
 
 + leaning HTML and CSS, Figma - [layout](https://vita-mlr.github.io/goit-markup-hw-08/index.html)
-+ project __NETR/Blog__ - JavaScript, React, Rest IP, GitHub
++ project __NETTR/Blog__ - JavaScript, React, Rest IP, GitHub
 + project __JOC__ - JavaScript, TypeScript, Rest IP, React, Redux, GitHub
 
 ***
