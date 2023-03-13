@@ -31,8 +31,7 @@ I am persistent, responsible, friendly, calm
 
 ### Code Example
 
-    ```
-    function countConsonants(str) {
+    <function countConsonants(str) {
       const vowels = ["a", "e", "i", "o", "u"];
       let res = [];
       for (let item in str) {
@@ -43,8 +42,7 @@ I am persistent, responsible, friendly, calm
         }
       }
       return res.length;
-    }
-    ```
+    }>
 
 ***
 
