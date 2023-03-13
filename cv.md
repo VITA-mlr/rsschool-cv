@@ -49,8 +49,8 @@ I am persistent, responsible, friendly, calm
 ### Experience
 
 + leaning HTML and CSS, Figma - [layout](https://vita-mlr.github.io/goit-markup-hw-08/index.html)
-+ project __NETTR/Blog__ - JavaScript, React, Rest IP, GitHub
-+ project __JOC__ - JavaScript, TypeScript, Rest IP, React, Redux, GitHub
++ project __NETTR/Blog__ - JavaScript, React, Rest API, GitHub
++ project __JOC__ - JavaScript, TypeScript, Rest API, React, Redux, GitHub
 
 ***
 
@@ -60,7 +60,7 @@ I am persistent, responsible, friendly, calm
 + __Courses:__
     + __CyberBionic Systematics:__ Python Developing
     + __GoIT:__ HTML/CSS
-+ __FiveSysDev:__ JavaScript, React, TypeScript, Redux
++ __FiveSysDev:__ JavaScript, React, TypeScript, Rest API, Redux
 
 ***
 
